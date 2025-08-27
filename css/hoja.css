@@ -1,0 +1,74 @@
+@charset "UTF-8";
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#contenedor {
+    width: 1900px;
+    height: 1200px;
+    background-color: rgba(172,172,172,1.00);
+    margin-left: auto;
+    margin-right: auto;
+}
+#contenedor header {
+    width: 1900px;
+    height: 200px;
+    background-color: rgba(148,103,181,1.00);
+    float: left;
+}
+#logo   {
+    width: 300px;
+    height: 170px;
+    background-color: rgba(255,255,255,1.00);
+    float: left;
+}
+#contenedor header nav {
+    width: 1900px;
+    height: 30px;
+    background-color: rgba(52,131,178,1.00);
+    float: left;
+}
+#contenedor main {
+    width: 1700px;
+    height: 400px;
+    background-color: rgba(213,186,58,1.00);
+    float: left;
+}
+#contenedor main article {
+    width: 850px;
+    height: 400px;
+    background-color: rgba(0,0,0,1.00);
+    float: left;
+}
+#contenedor main article {
+    background-color: rgba(0,0,0,1.00);
+    width: 850px;
+    height: 400px;
+    float: left;
+}
+#contenedor aside {
+    width: 200px;
+    height: 800px;
+    background-color: rgba(224,130,32,1.00);
+    float: left;
+}
+#contenedor section {
+    width: 1700px;
+    height: 400px;
+    background-color: rgba(208,41,43,1.00);
+    float: left;
+}
+#contenedor2 {
+    float: left;
+    width: 1700px;
+    height: 800px;
+}
+#contenedor footer {
+    height: 200px;
+    width: 1900px;
+    background-color: rgba(36,187,122,1.00);
+    float: left;
+}
